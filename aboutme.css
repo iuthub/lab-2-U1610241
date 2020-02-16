@@ -1,0 +1,21 @@
+body {
+	color:#708090;
+	background: rgb(224, 224, 224);
+
+}
+h1 {
+	color:rgb(131, 15, 34);
+	font-family: Century;
+}
+
+h2 {
+	color: rgb(0, 0, 0);
+	font-family: Century;
+}
+
+a:link { 
+            text-decoration: none; 
+        } 
+a:hover { 
+            text-decoration: underline; 
+        } 
